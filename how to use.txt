@@ -1,0 +1,12 @@
+pip install scrapy
+pip install re
+pip install pymongo
+
+
+then setup mongodb uri and database in settings.py
+
+then cd to spiders then
+
+run 
+
+scrapy runspider jumia_kenya.py
